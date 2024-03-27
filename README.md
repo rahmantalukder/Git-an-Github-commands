@@ -4,7 +4,7 @@ git config --global user.name "YOUR_NAME"
 গিট কমান্ডস
 ============
 
-## অনুবাদিত সংস্করণ
+ অনুবাদিত সংস্করণ
 - [English version (original)](README.md)
 - [Versão em português](READMEpt.md)
 - [Versión en español](READMEes.md)
