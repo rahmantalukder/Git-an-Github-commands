@@ -4,8 +4,8 @@
 
 
 
-git config --global user.email "YOUR_EMAIL"
-git config --global user.name "YOUR_NAME"
+#git config --global user.email "YOUR_EMAIL"
+#git config --global user.name "YOUR_NAME"
 গিট কমান্ডস
 ============
 
