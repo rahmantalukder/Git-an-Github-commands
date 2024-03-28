@@ -1,11 +1,22 @@
+echo "# WDDF-03" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rahmantalukder/WDDF-03.git
+git push -u origin main
+
+git remote add origin https://github.com/rahmantalukder/WDDF-03.git
+git branch -M main
+git push -u origin main
+
+
+
 #Git-an-Github-commands
 
 
-
-
-
-#git config --global user.email "YOUR_EMAIL"
-#git config --global user.name "YOUR_NAME"
+git config --global user.email "YOUR_EMAIL"
+git config --global user.name "YOUR_NAME"
 গিট কমান্ডস
 ============
 
